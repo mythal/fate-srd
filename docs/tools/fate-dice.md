@@ -17,7 +17,7 @@ import FateDices from '@site/src/components/FateDice/FateDices'
 |+4|出色|Great|
 |+3|良好|Good|
 |+2|尚可|Fair|
-|+1|普通|Average|
+|+1|一般|Average|
 |+0|平庸|Mediocre|
 |-1|差勁|Poor|
 |-2|糟糕|Terrible|
