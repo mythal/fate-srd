@@ -13,7 +13,7 @@ import FateDices from '@site/src/components/FateDice/FateDices'
 |+8|傳奇|Legendary|
 |+7|史詩|Epic|
 |+6|卓绝|Fantastic|
-|+5|卓越|Superb|
+|+5|杰出|Superb|
 |+4|出色|Great|
 |+3|良好|Good|
 |+2|尚可|Fair|
