@@ -10,7 +10,7 @@ export function Aspects(): JSX.Element {
       <div className="flex items-center pt-2">
         <BlockContainer>
           <InputWithLabel name="high-concept" id="high-concept">
-            高概念
+            核心概念
           </InputWithLabel>
           <InputWithLabel name="trouble" id="trouble">
             麻煩
