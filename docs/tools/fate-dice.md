@@ -14,7 +14,7 @@ import FateDices from '@site/src/components/FateDice/FateDices'
 |+7|史詩|Epic|
 |+6|驚人|Fantastic|
 |+5|卓越|Superb|
-|+4|傑出|Great|
+|+4|出色|Great|
 |+3|良好|Good|
 |+2|尚可|Fair|
 |+1|普通|Average|
