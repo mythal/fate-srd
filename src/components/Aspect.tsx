@@ -5,7 +5,7 @@ function Aspects(): JSX.Element {
   return (
     <div>
       <div>
-        <Title>形象</Title>
+        <Title>特征</Title>
       </div>
       <div className="flex items-center pt-2">
         <BlockContainer>
@@ -19,10 +19,10 @@ function Aspects(): JSX.Element {
             關係
           </InputWithLabel>
           <InputWithLabel name="other-aspect" id="other-aspect-1">
-            其他形象
+            其他特征
           </InputWithLabel>
           <InputWithLabel name="other-aspect" id="other-aspect-2">
-            其他形象
+            其他特征
           </InputWithLabel>
         </BlockContainer>
       </div>

@@ -22,5 +22,5 @@ import FateFont from '@site/src/components/FateFont'
 - 預設改為[「巴爾塞拉式（Balsera）」先攻](challenges-conflicts-and-contests#%E5%9B%9E%E5%90%88%E6%AC%A1%E5%BA%8F)（也可以稱之「選取行動排序」或「爆米花式先攻」），而不用技能來決定回合順序。
 - [成長的功能有些改動](advancement)；我們取消了重要里程碑，取而代之地，我們對主要里程碑（作為突破點）進行微調。
 - 我們取消了主動抵抗的概念，將它與**防禦行動**分開。這產生了新的連鎖反應，特別是[**克服**的平手結果](taking-action-rolling-dice#%E5%B9%B3%E6%89%8B)。
-- [我們對**創造優勢**進行了調整](taking-action-rolling-dice#%E5%89%B5%E9%80%A0%E5%84%AA%E5%8B%A2)，以便在發現現有未知**形象**時更清晰並且有更好的作用。
+- [我們對**創造優勢**進行了調整](taking-action-rolling-dice#%E5%89%B5%E9%80%A0%E5%84%AA%E5%8B%A2)，以便在發現現有未知**特征**時更清晰並且有更好的作用。
 - **完全防禦**改成可選，並對**防禦行動**加以擴充以進行補償。並加上[許多標準可選規則](optional-rules)。
