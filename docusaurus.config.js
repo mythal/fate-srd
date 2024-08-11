@@ -9,7 +9,7 @@ const config = {
   title: '命運濃縮版',
   tagline: '由洪偉所維護的 Fate 中文版 SRD 網站',
   url: 'https://fate-srd.wayneh.tw',
-  baseUrl: '/',
+  baseUrl: '/fate-srd/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -17,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'wayne930242', // Usually your GitHub org/user name.
+  organizationName: 'mythal', // Usually your GitHub org/user name.
   projectName: 'fate-srd', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
